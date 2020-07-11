@@ -1,0 +1,2 @@
+The main idea here is to benefits from the SIM card which is provided in every phone so the SIM card sends the approximate location of the person to the Arduino controller
+which in turn processes this information to make a comparison between these two locations and based on this data the robot alert people with the help of a sound sensor.
