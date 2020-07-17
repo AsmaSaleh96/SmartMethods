@@ -1,0 +1,3 @@
+In this project, the main idea is to connect two motors to the Arduino board and control the direction of both motors and determine the number of its rotation per minute(RPM). 
+Here two switch buttons used to control the direction, 
+and two potentiometers used to control the speed of the motors. 
