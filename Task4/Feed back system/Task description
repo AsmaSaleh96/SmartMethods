@@ -1,0 +1,3 @@
+In this project, the main idea is to control the second motor by moving the first one. 
+In other words, I assumed that the first motor connected to a robotic arm in order to help it moves and so the second motor.  
+The idea is to control the second arm by moving the first one exactly like the poppy robot. 
